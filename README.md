@@ -1,3 +1,5 @@
+![Título](imagenes/Titulo.png)
+
 # Juego de Sudoku
 
 ### Acerca del Proyecto
@@ -42,7 +44,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue esto
 ### Gracias por ver
 Aquí algunas capturas del juego:
 <div>
-  <img src="ImagenesRM/inicio.png" width="200"/>
-  <img src="ImagenesRM/sudoku.png" width="200"/>
-  <img src="ImagenesRM/final.png" width="200"/>
+  <img alt="pantalla-inicio" src="ImagenesRM/inicio.png" width="200"/>
+  <img alt="pantalla-juego" src="ImagenesRM/sudoku.png" width="200"/>
+  <img alt="pantalla-final" src="ImagenesRM/final.png" width="200"/>
 </div>
