@@ -20,11 +20,15 @@ Clona el repositorio:
   ```
   git clone https://github.com/usuario/nombre-repositorio.git'
   ```
+Instala las dependencias
+  ```
+  pip install pygame
+  ```
 
 ### ¿Cómo jugar?
 Para jugar simplemente ejecuta el archivo
   ```
-  python main.py
+  python nombre-archivo.py
   ```
    
 ### Contribuciones
