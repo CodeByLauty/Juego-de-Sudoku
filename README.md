@@ -18,7 +18,7 @@ El objetivo del proyecto fue crear una aplicación interactiva que permita al us
 ### Instalación
 Clona el repositorio:
   ```
-  git clone https://github.com/usuario/nombre-repositorio.git'
+  git clone https://github.com/CodeByLauti/Juego-de-Sudoku.git'
   ```
 Instala las dependencias
   ```
